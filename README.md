@@ -1,6 +1,7 @@
 # InnovateVoice-AI
 
 "InnovateVoice AI" is an advanced desktop assistant powered by cutting-edge technology, seamlessly blending the power of OpenAI and Python. This intelligent assistant is designed to engage in natural and human-like conversations, offering a dynamic and innovative user experience.
+
 **Key Features:**
 
 **Human-like Conversations**: InnovateVoice AI leverages OpenAI's sophisticated models to simulate natural, context-aware conversations, making interactions with the assistant more intuitive and engaging.
